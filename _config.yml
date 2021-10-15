@@ -1,9 +1,9 @@
-baseurl: /tufte-jekyll
-title: Tufte-Jekyll
-subtitle: Content-centric blogging
-author: clay harmon
+baseurl: /my_page
+title: Satwik's Blog
+subtitle: My thoughts and stuff
+author: Satwik
 simple_search: http://google.com/search
-description: A Jekyll theme for content-rich sites
+description: My ideas and thoughts
 name: tufte
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
@@ -19,9 +19,4 @@ page:
   extension: md
 editor: gvim
 git:
-  branch: master
-transfer:
-  command: rsync
-  settings: -av
-  source: _site/
-  destination: ~/Git/clayh53.github.com/
+  branch: gh-pages
