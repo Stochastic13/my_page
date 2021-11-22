@@ -5,8 +5,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>blog</title>
-  <meta name="description" content="My ideas and thoughts">
+  <title>Random Musings</title>
+  <meta name="description" content="A little while ago, while studying some scientific theory, owing to perhaps some deep-rooted stochastic neural process that dictates how trains of thoughts t...">
 
   <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
   
@@ -45,12 +45,12 @@
   <link rel="stylesheet" type="text/css" href="/my_page/css/tufte.css">
   <!-- <link rel="stylesheet" type="text/css" href="/my_page/css/print.css" media="print"> -->
 
-  <link rel="canonical" href="/my_page/">
+  <link rel="canonical" href="/my_page/articles/21/Random-Musings">
 
   <link rel="alternate" type="application/rss+xml" title="Satwik's Blog" href="/my_page/feed.xml" />
 </head>
 
-  <body class="full-width">
+  <body>
     <!--- Header and nav template site-wide -->
 <header>
     <nav class="group">
@@ -60,7 +60,7 @@
   	
 		
 		    
-		      <a class="active" href="/my_page/" class="active">blog</a>
+		      <a href="/my_page/">blog</a>
 		    
 	    
   	
@@ -92,25 +92,11 @@
   	
 	</nav>
 </header>
-    <article>
-        <h1 class="content-listing-header sans">Articles</h1>
-  <ul class="content-listing ">
-          
-        <li class="listing">
-          <hr class="slender">
-          <a href="/my_page/articles/21/Random-Musings"><h3 class="contrast">Random Musings</h3></a>
-		  <br>
-		  
-		    <a href="categories/"><span class="smaller">science    </span></a>
-		  
-		    <a href="categories/"><span class="smaller">shower_thoughts    </span></a>
-		  
-		    <a href="categories/"><span class="smaller">philosophy    </span></a>
-		  
-		    <a href="categories/"><span class="smaller">article    </span></a>
-		  
-          <br><span class="smaller">January 1, 2021</span>  <br/>
-          <div>A little while ago, while studying some scientific theory, owing to perhaps some deep-rooted stochastic neural process that dictates how trains of thoughts travel across the mental landscape, I embarked on a journey that culminated in what I so interestingly (or pointlessly, depending on your position on the glass-full-empty scale) report in the ensuing article. I promise, no self praises here on.
+    <article class="group">
+      <h1>Random Musings</h1>
+<p class="subtitle">January 1, 2021</p>
+
+A little while ago, while studying some scientific theory, owing to perhaps some deep-rooted stochastic neural process that dictates how trains of thoughts travel across the mental landscape, I embarked on a journey that culminated in what I so interestingly (or pointlessly, depending on your position on the glass-full-empty scale) report in the ensuing article. I promise, no self praises here on.
 
 We often overlook how deeply entrenched is Statistics in Science and the implications of such an intimate intertwining. Discounting deep philosophical arguments, Science ultimately craves an understanding of the esoteric natural processes, constantly needing the satisfaction of theorizing something and then ‘confirming’ it by experiment to sustain its overly curious meta-body. Almost all of our understanding of the world rests on the ‘fact’ that rare events rarely happen, and hence, we are more likely living in a world which functions in such a way that what we observe is common, rather than the one in which it is rare. This idea is central to interpreting the results of every single inquiry ever set forth by Science. But if we entirely rest our body of knowledge on the foundations of probabilistic conclusions, then this entire edifice becomes vulnerable to what every Random Variable is vulnerable to - Randomness (Duh?). 
 Imagine this. Someone comes up with a drug which is supposed to cure X. We perform 10 RCTs with 10000 people each, and every one of the 50000 in the drug group is cured of X and everyone in the control group dies (or any equivalent euphemism) of X. A probabilistic conclusion goes thus: Since what we observed would be very rare if the drug were not effective, we should conclude that it is effective; since given that, the observation becomes much more likely, which is in line with our ‘rare events happen rarely’. But what if this event was truly rare? There is a finite possibility that the drug actually works in a way that kills 9 out of 10 people it is given to, and the disease X only kills 8 out of 10 without treatment, so in ‘reality’ (if that exists  ), the drug is indeed poisonous. But, if this selection of people (9 of the 10) is truly random, then there is a finite possibility that our RCTs happen given this ‘truth’ no matter how well the two groups were randomized and balanced in potential confounders. If that has actually happened, we might just legalize the drug and it starts killing everyone from next day on, as it was always more likely to do! (Something like if a tails is less probable than a heads for a particular coin, TTT….TTTT is still possible, and the next event in case of an independent draw would mostly be an H.)
@@ -123,12 +109,11 @@ Let us move one step further. What if the very act of trying to find a meaningfu
 
 The last occupant of Pandora’s box never seemed so dear!
 
-For the purpose of an analogy, imagine a huge building found upon a large pillar (sort of like the Pantheon but with only one pillar and a huge building instead of the roof, which makes it as less like Pantheon as one can be. But still, go on.). People every day brought tons of concrete and dumped on the tower to constantly raise it further, hoping to be able to one day see (or as they called it, understand) completely the world from atop it, as taller the building, the more they thought they could see. But on closer inspection, someone realizes that the base column might not exist, (perhaps might only be an optical illusion), which implies that the entire structure above it might also not exist and all the concrete they had been dumping was just pure nothingness; the building might be duping the onlookers into believing they were indeed seeing something when all the while what they were seeing were random visions of different parts of the world brought in by the drifting winds, infinitely contorted to perfectly flummox any attempt at piecing together of the world that the people seemed to endeavor on. The best part, they were not sure whether the pillar existed. </div> 
-        </li>
-    
-  </ul>
+For the purpose of an analogy, imagine a huge building found upon a large pillar (sort of like the Pantheon but with only one pillar and a huge building instead of the roof, which makes it as less like Pantheon as one can be. But still, go on.). People every day brought tons of concrete and dumped on the tower to constantly raise it further, hoping to be able to one day see (or as they called it, understand) completely the world from atop it, as taller the building, the more they thought they could see. But on closer inspection, someone realizes that the base column might not exist, (perhaps might only be an optical illusion), which implies that the entire structure above it might also not exist and all the concrete they had been dumping was just pure nothingness; the building might be duping the onlookers into believing they were indeed seeing something when all the while what they were seeing were random visions of different parts of the world brought in by the drifting winds, infinitely contorted to perfectly flummox any attempt at piecing together of the world that the people seemed to endeavor on. The best part, they were not sure whether the pillar existed. 
+
+
     </article>
-    <span class="print-footer">blog - satwik</span>
+    <span class="print-footer">Random Musings - January 1, 2021 - satwik</span>
     <footer>
   <hr class="slender">
   <ul class="footer-links">
